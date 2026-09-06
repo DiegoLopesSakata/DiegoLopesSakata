@@ -95,8 +95,6 @@ Backend CRUD integrated with MySQL and a responsive HTML/CSS frontend.
 🛒 **E-commerce FullStack — React + .NET 8**
 JWT authentication, CRUD for products/categories, WhatsApp order integration, Entity Framework Core + AutoMapper.
 
-> *Tip: update the links above once you add each project as a pinned repository on your profile.*
-
 ---
 
 ## 🌐 Portfolio
@@ -134,8 +132,8 @@ Complete Backend Projects
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DiegoLopesSakata&show_icons=true&hide_border=true&count_private=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoLopesSakata&hide_border=true&background=0D0221&stroke=9D4EDD&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=E0AAFF&dates=E0AAFF" />
+  <img height="165" src="https://github-stats-extended-frontend-seven-chi.vercel.app/api?username=DiegoLopesSakata&show_icons=true&hide_border=true&count_private=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=DiegoLopesSakata&hide_border=true&background=0D0221&stroke=9D4EDD&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF&sideLabels=E0AAFF&dates=E0AAFF&currStreakNum=E0AAFF&sideNums=E0AAFF" />
 </p>
 
 ---
