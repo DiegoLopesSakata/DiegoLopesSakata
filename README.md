@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-lopes-sakata)
 [![GitHub](https://img.shields.io/badge/DIEGO%20LOPES%20SAKATA-3C096C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoLopesSakata)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-🚧%20Coming%20soon-9D4EDD?style=for-the-badge)](https://github.com/DiegoLopesSakata)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sakata.vercel.app)
 [![Email](https://img.shields.io/badge/EMAIL-7209B7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dihsakata@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DiegoLopesSakata&label=PROFILE%20VIEWS&color=9D4EDD&style=flat-square)
@@ -102,8 +102,8 @@ Component-based architecture with Props, dynamic level progress bar and class ic
 
 ## 🌐 Portfolio
 
-🚧 **In development — coming soon!**
-I'm currently building my personal portfolio to showcase these projects in a live, interactive way. Once it's live, this section will link straight to it.
+🚀 **[portfolio-sakata.vercel.app](https://portfolio-sakata.vercel.app)**
+My personal portfolio, showcasing these projects, my background and experience in a live, interactive way.
 
 ---
 
@@ -167,6 +167,7 @@ I'm currently looking for **my first professional opportunity as a Backend Devel
 ### 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-lopes-sakata)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sakata.vercel.app)
 [![Email](https://img.shields.io/badge/SEND%20A%20MESSAGE-7209B7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dihsakata@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3500&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=while+(learning)+%7B+build()+%E2%86%92+improve()+%7D" alt="Typing SVG" />
