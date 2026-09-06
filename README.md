@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3C096C,100:9D4EDD&height=200&section=header&text=Diego%20Lopes%20Sakata&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20|%20Java%20%26%20Spring%20Boot%20Focus&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3C096C,100:9D4EDD&height=200&section=header&text=Diego%20Lopes%20Sakata&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Focus&descAlignY=55&descSize=18)
 
 <a href="https://github.com/DiegoLopesSakata">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Learning%2C+building+and+improving+every+day;Java+%2B+Spring+Boot+%2B+PostgreSQL;Open+to+Internship+and+Junior+opportunities" alt="Typing SVG" />
@@ -48,17 +48,23 @@ Beyond coding, I value **analytical problem solving**, **clear communication wit
 
 ---
 
+<div align='center'>
+
 ## ⚡ Main Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github" />
+
+</div>
+
+<div align='center'>
 
 ## 🧩 Other technologies I work with
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,nodejs,html,css,aws" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,react,nodejs,html,css,aws" />
+
+</div>
 
 ---
 
