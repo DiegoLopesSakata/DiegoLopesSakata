@@ -83,17 +83,20 @@ Beyond coding, I value **analytical problem solving**, **clear communication wit
 
 ## 🚀 Featured Projects
 
-📦 **API REST — Java + Spring Boot**
-Full CRUD with JPA/Hibernate, H2 database, and endpoint docs via Swagger/OpenAPI.
+[🔎 **Vestigium — Python + FastAPI**](https://github.com/vinilmt/vestigium)
+Backend REST para investigação crítica de conteúdo assistida por IA, com autenticação por token, PostgreSQL via psycopg2, hash de senha com bcrypt e Docker Compose para orquestração dos serviços.
 
-🎲 **RPG Character Creator — React.js**
-Component-based architecture with Props, dynamic level progress bar and class icons.
+[🏢 **CondoHub — HTML + CSS + Vanilla JS**](https://github.com/DiegoLopesSakata/CondoHUB)
+Multi-profile SPA for condominium management with hash-based routing, 46 views across 4 user roles (manager, resident, doorman, employee), modular feature-based architecture, automated maintenance alerts, and built-in low-vision accessibility mode.
 
-🐾 **Petshop Web System — Java + MySQL + HTML/CSS**
+[🐾 **Petshop Web System — Java + MySQL + HTML/CSS**](https://github.com/DiegoLopesSakata/20252_fatec_ipi_pw)
 Backend CRUD integrated with MySQL and a responsive HTML/CSS frontend.
 
-🛒 **E-commerce FullStack — React + .NET 8**
-JWT authentication, CRUD for products/categories, WhatsApp order integration, Entity Framework Core + AutoMapper.
+[📦 **API REST — Java + Spring Boot**](https://github.com/DiegoLopesSakata/20251_fatec_ipi_POO)
+Full CRUD with JPA/Hibernate, H2 database, and endpoint docs via Swagger/OpenAPI.
+
+[🎲 **RPG Character Creator — React.js**](https://github.com/DiegoLopesSakata/20251_fatec_ipi_poo_p1_modelo)
+Component-based architecture with Props, dynamic level progress bar and class icons.
 
 ---
 
