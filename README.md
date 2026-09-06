@@ -169,7 +169,7 @@ I'm currently looking for **my first professional opportunity as a Backend Devel
 [![LinkedIn](https://img.shields.io/badge/CONNECT-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-lopes-sakata)
 [![Email](https://img.shields.io/badge/SEND%20A%20MESSAGE-7209B7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dihsakata@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3500&pause=800&color=C77DFF&center=true&vCenter=true&width=500&lines=while+(learning)+%7B+build()%3B+improve()%3B+%7D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3500&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=while+(learning)+%7B+build()+%E2%86%92+improve()+%7D" alt="Typing SVG" />
 
 *Learning, building and improving one commit at a time.*
 
