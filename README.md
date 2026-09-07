@@ -92,7 +92,7 @@ Multi-profile SPA for condominium management with hash-based routing, 46 views a
 [🐾 **Petshop Web System — Java + MySQL + HTML/CSS**](https://github.com/DiegoLopesSakata/20252_fatec_ipi_pw)
 Backend CRUD integrated with MySQL and a responsive HTML/CSS frontend.
 
-[📦 **API REST — Java + Spring Boot**](https://github.com/DiegoLopesSakata/20251_fatec_ipi_POO)
+[📦 **API REST — Java + Spring Boot**](https://github.com/DiegoLopesSakata/backend-coding-test-farmtech.git)
 Full CRUD with JPA/Hibernate, H2 database, and endpoint docs via Swagger/OpenAPI.
 
 [🎲 **RPG Character Creator — React.js**](https://github.com/DiegoLopesSakata/20251_fatec_ipi_poo_p1_modelo)
